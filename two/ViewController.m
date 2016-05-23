@@ -26,6 +26,8 @@
     int b = 10;
     
     self.sum = a  +  b;
+    
+    NSLog(@"%d",self.sum);
     // Do any additional setup after loading the view, typically from a nib.
 }
 
